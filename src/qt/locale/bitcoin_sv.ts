@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Wtfcoin</source>
-        <translation>Om Wtfcoin</translation>
+        <source>About Abccoin</source>
+        <translation>Om Abccoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Wtfcoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Wtfcoin&lt;/b&gt;-version</translation>
+        <source>&lt;b&gt;Abccoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Abccoin&lt;/b&gt;-version</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -35,8 +35,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+0"/>
-        <source>The Wtfcoin developers</source>
-        <translation>Wtfcoin-utvecklarna</translation>
+        <source>The Abccoin developers</source>
+        <translation>Abccoin-utvecklarna</translation>
     </message>
 </context>
 <context>
@@ -68,8 +68,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Wtfcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Detta är dina Wtfcoin-adresser för att ta emot betalningar.  Du kan ge varje avsändare en egen adress så att du kan hålla reda på vem som betalar dig.</translation>
+        <source>These are your Abccoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Detta är dina Abccoin-adresser för att ta emot betalningar.  Du kan ge varje avsändare en egen adress så att du kan hålla reda på vem som betalar dig.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -83,7 +83,7 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Wtfcoin address</source>
+        <source>Sign a message to prove you own a Abccoin address</source>
         <translation>Signera ett meddelande för att bevisa att du äger denna adress</translation>
     </message>
     <message>
@@ -108,8 +108,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Wtfcoin address</source>
-        <translation>Verifiera meddelandet för att vara säker på att den var signerad med den specificerade Wtfcoin-adressen</translation>
+        <source>Verify a message to ensure it was signed with a specified Abccoin address</source>
+        <translation>Verifiera meddelandet för att vara säker på att den var signerad med den specificerade Abccoin-adressen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -123,8 +123,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Wtfcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Detta är dina Wtfcoin adresser för att skicka betalningar. Kolla alltid summan och den mottagande adressen innan du skickar Wtfcoins.</translation>
+        <source>These are your Abccoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Detta är dina Abccoin adresser för att skicka betalningar. Kolla alltid summan och den mottagande adressen innan du skickar Abccoins.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -139,7 +139,7 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     <message>
         <location line="+1"/>
         <source>Send &amp;Coins</source>
-        <translation>Skicka &amp;Wtfcoins</translation>
+        <translation>Skicka &amp;Abccoins</translation>
     </message>
     <message>
         <location line="+260"/>
@@ -249,7 +249,7 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR WTFCOINS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ABCCOINS&lt;/b&gt;!</source>
         <translation>VARNING: Om du krypterar din plånbok och glömmer ditt lösenord, kommer du att &lt;b&gt;FÖRLORA ALLA DINA TILLGÅNGAR&lt;/b&gt;!</translation>
     </message>
     <message>
@@ -276,7 +276,7 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-56"/>
-        <source>Wtfcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your wtfcoins from being stolen by malware infecting your computer.</source>
+        <source>Abccoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your abccoins from being stolen by malware infecting your computer.</source>
         <translation>Programmet kommer nu att stänga ner för att färdigställa krypteringen. Tänk på att en krypterad plånbok inte skyddar mot stöld om din dator är infekterad med en keylogger.</translation>
     </message>
     <message>
@@ -375,8 +375,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Wtfcoin</source>
-        <translation>Visa information om Wtfcoin</translation>
+        <source>Show information about Abccoin</source>
+        <translation>Visa information om Abccoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -420,13 +420,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Wtfcoin address</source>
-        <translation>Skicka mynt till en Wtfcoin-adress</translation>
+        <source>Send coins to a Abccoin address</source>
+        <translation>Skicka mynt till en Abccoin-adress</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Wtfcoin</source>
-        <translation>Ändra konfigurationsalternativ för Wtfcoin</translation>
+        <source>Modify configuration options for Abccoin</source>
+        <translation>Ändra konfigurationsalternativ för Abccoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -456,8 +456,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Wtfcoin</source>
-        <translation>Wtfcoin</translation>
+        <source>Abccoin</source>
+        <translation>Abccoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -481,8 +481,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Wtfcoin</source>
-        <translation>&amp;Om Wtfcoin</translation>
+        <source>&amp;About Abccoin</source>
+        <translation>&amp;Om Abccoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -501,13 +501,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Wtfcoin addresses to prove you own them</source>
-        <translation>Signera meddelanden med din Wtfcoinadress för att bevisa att du äger dem</translation>
+        <source>Sign messages with your Abccoin addresses to prove you own them</source>
+        <translation>Signera meddelanden med din Abccoinadress för att bevisa att du äger dem</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Wtfcoin addresses</source>
-        <translation>Verifiera meddelanden för att vara säker på att de var signerade med den specificerade Wtfcoin-adressen</translation>
+        <source>Verify messages to ensure they were signed with specified Abccoin addresses</source>
+        <translation>Verifiera meddelanden för att vara säker på att de var signerade med den specificerade Abccoin-adressen</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -537,13 +537,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+47"/>
-        <source>Wtfcoin client</source>
-        <translation>Wtfcoin-klient</translation>
+        <source>Abccoin client</source>
+        <translation>Abccoin-klient</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Wtfcoin network</source>
-        <translation><numerusform>%n aktiv anslutning till Wtfcoin-nätverket</numerusform><numerusform>%n aktiva anslutningar till Wtfcoin-nätverket</numerusform></translation>
+        <source>%n active connection(s) to Abccoin network</source>
+        <translation><numerusform>%n aktiv anslutning till Abccoin-nätverket</numerusform><numerusform>%n aktiva anslutningar till Abccoin-nätverket</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -657,8 +657,8 @@ Adress: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Wtfcoin address or malformed URI parameters.</source>
-        <translation>URI går inte att tolkas! Detta kan orsakas av en ogiltig Wtfcoin-adress eller felaktiga URI parametrar.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Abccoin address or malformed URI parameters.</source>
+        <translation>URI går inte att tolkas! Detta kan orsakas av en ogiltig Abccoin-adress eller felaktiga URI parametrar.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -672,8 +672,8 @@ Adress: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Wtfcoin can no longer continue safely and will quit.</source>
-        <translation>Ett allvarligt fel har uppstått. Wtfcoin kan inte längre köras säkert och kommer att avslutas.</translation>
+        <source>A fatal error occurred. Abccoin can no longer continue safely and will quit.</source>
+        <translation>Ett allvarligt fel har uppstått. Abccoin kan inte längre köras säkert och kommer att avslutas.</translation>
     </message>
 </context>
 <context>
@@ -738,8 +738,8 @@ Adress: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Wtfcoin address.</source>
-        <translation>Den angivna adressen &quot;%1&quot; är inte en giltig Wtfcoin-adress.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Abccoin address.</source>
+        <translation>Den angivna adressen &quot;%1&quot; är inte en giltig Abccoin-adress.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -757,8 +757,8 @@ Adress: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Wtfcoin-Qt</source>
-        <translation>Wtfcoin-Qt</translation>
+        <source>Abccoin-Qt</source>
+        <translation>Abccoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -820,13 +820,13 @@ Adress: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Wtfcoin after logging in to the system.</source>
-        <translation>Starta Wtfcoin automatiskt efter inloggning.</translation>
+        <source>Automatically start Abccoin after logging in to the system.</source>
+        <translation>Starta Abccoin automatiskt efter inloggning.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Wtfcoin on system login</source>
-        <translation>&amp;Starta Wtfcoin vid systemstart</translation>
+        <source>&amp;Start Abccoin on system login</source>
+        <translation>&amp;Starta Abccoin vid systemstart</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -845,8 +845,8 @@ Adress: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Wtfcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Öppna automatiskt Wtfcoin-klientens port på routern. Detta fungerar endast om din router har UPnP aktiverat.</translation>
+        <source>Automatically open the Abccoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Öppna automatiskt Abccoin-klientens port på routern. Detta fungerar endast om din router har UPnP aktiverat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -855,8 +855,8 @@ Adress: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Wtfcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Anslut till Wtfcoin-nätverket genom en SOCKS-proxy (t.ex. när du ansluter genom Tor).</translation>
+        <source>Connect to the Abccoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Anslut till Abccoin-nätverket genom en SOCKS-proxy (t.ex. när du ansluter genom Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -930,8 +930,8 @@ Adress: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Wtfcoin.</source>
-        <translation>Användargränssnittets språk kan ställas in här. Denna inställning träder i kraft efter en omstart av Wtfcoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Abccoin.</source>
+        <translation>Användargränssnittets språk kan ställas in här. Denna inställning träder i kraft efter en omstart av Abccoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -945,8 +945,8 @@ Adress: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Wtfcoin addresses in the transaction list or not.</source>
-        <translation>Anger om Wtfcoin-adresser skall visas i transaktionslistan.</translation>
+        <source>Whether to show Abccoin addresses in the transaction list or not.</source>
+        <translation>Anger om Abccoin-adresser skall visas i transaktionslistan.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -997,8 +997,8 @@ Adress: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Wtfcoin.</source>
-        <translation>Denna inställning träder i kraft efter en omstart av Wtfcoin.</translation>
+        <source>This setting will take effect after restarting Abccoin.</source>
+        <translation>Denna inställning träder i kraft efter en omstart av Abccoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1016,8 +1016,8 @@ Adress: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Wtfcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Den visade informationen kan vara inaktuell. Plånboken synkroniseras automatiskt med Wtfcoin-nätverket efter att anslutningen är upprättad, men denna process har inte slutförts ännu.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Abccoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Den visade informationen kan vara inaktuell. Plånboken synkroniseras automatiskt med Abccoin-nätverket efter att anslutningen är upprättad, men denna process har inte slutförts ännu.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1070,8 +1070,8 @@ Adress: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start wtfcoin: click-to-pay handler</source>
-        <translation>Kan inte starta wtfcoin: klicka-och-betala handhavare</translation>
+        <source>Cannot start abccoin: click-to-pay handler</source>
+        <translation>Kan inte starta abccoin: klicka-och-betala handhavare</translation>
     </message>
 </context>
 <context>
@@ -1220,8 +1220,8 @@ Adress: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Wtfcoin-Qt help message to get a list with possible Wtfcoin command-line options.</source>
-        <translation>Visa Wtfcoin-Qt hjälpmeddelande för att få en lista med möjliga Wtfcoin kommandoradsalternativ.</translation>
+        <source>Show the Abccoin-Qt help message to get a list with possible Abccoin command-line options.</source>
+        <translation>Visa Abccoin-Qt hjälpmeddelande för att få en lista med möjliga Abccoin kommandoradsalternativ.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1240,13 +1240,13 @@ Adress: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Wtfcoin - Debug window</source>
-        <translation>Wtfcoin - Debug fönster</translation>
+        <source>Abccoin - Debug window</source>
+        <translation>Abccoin - Debug fönster</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Wtfcoin Core</source>
-        <translation>Wtfcoin Kärna</translation>
+        <source>Abccoin Core</source>
+        <translation>Abccoin Kärna</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1255,8 +1255,8 @@ Adress: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Wtfcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Öppna Wtfcoin debug-loggfilen som finns i datakatalogen. Detta kan ta några sekunder för stora loggfiler.</translation>
+        <source>Open the Abccoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Öppna Abccoin debug-loggfilen som finns i datakatalogen. Detta kan ta några sekunder för stora loggfiler.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1265,8 +1265,8 @@ Adress: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Wtfcoin RPC console.</source>
-        <translation>Välkommen till Wtfcoin RPC-konsollen.</translation>
+        <source>Welcome to the Abccoin RPC console.</source>
+        <translation>Välkommen till Abccoin RPC-konsollen.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1449,8 +1449,8 @@ Adress: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Wtfcoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Ange en Wtfcoin-adress (t.ex. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Abccoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Ange en Abccoin-adress (t.ex. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1514,7 +1514,7 @@ Adress: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Wtfcoin address</source>
+        <source>Sign the message to prove you own this Abccoin address</source>
         <translation>Signera meddelandet för att bevisa att du äger denna adress</translation>
     </message>
     <message>
@@ -1550,8 +1550,8 @@ Adress: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Wtfcoin address</source>
-        <translation>Verifiera meddelandet för att vara säker på att den var signerad med den angivna Wtfcoin-adressen</translation>
+        <source>Verify the message to ensure it was signed with the specified Abccoin address</source>
+        <translation>Verifiera meddelandet för att vara säker på att den var signerad med den angivna Abccoin-adressen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1566,8 +1566,8 @@ Adress: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Wtfcoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Ange en Wtfcoin-adress (t.ex. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Abccoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Ange en Abccoin-adress (t.ex. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1576,8 +1576,8 @@ Adress: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Wtfcoin signature</source>
-        <translation>Ange Wtfcoin-signatur</translation>
+        <source>Enter Abccoin signature</source>
+        <translation>Ange Abccoin-signatur</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1650,8 +1650,8 @@ Adress: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Wtfcoin developers</source>
-        <translation>Wtfcoin-utvecklarna</translation>
+        <source>The Abccoin developers</source>
+        <translation>Abccoin-utvecklarna</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2188,8 +2188,8 @@ Adress: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Wtfcoin version</source>
-        <translation>Wtfcoin version</translation>
+        <source>Abccoin version</source>
+        <translation>Abccoin version</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2198,8 +2198,8 @@ Adress: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or wtfcoind</source>
-        <translation>Skicka kommando till -server eller wtfcoind</translation>
+        <source>Send command to -server or abccoind</source>
+        <translation>Skicka kommando till -server eller abccoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2218,13 +2218,13 @@ Adress: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: wtfcoin.conf)</source>
-        <translation>Ange konfigurationsfil (förvalt: wtfcoin.conf)</translation>
+        <source>Specify configuration file (default: abccoin.conf)</source>
+        <translation>Ange konfigurationsfil (förvalt: abccoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: wtfcoind.pid)</source>
-        <translation>Ange pid fil (förvalt: wtfcoind.pid)</translation>
+        <source>Specify pid file (default: abccoind.pid)</source>
+        <translation>Ange pid fil (förvalt: abccoind.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2301,24 +2301,24 @@ Adress: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=wtfcoinrpc
+rpcuser=abccoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Wtfcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Abccoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, du behöver sätta ett rpclösensord i konfigurationsfilen:
 %s
 Det är rekommenderat att använda följande slumpade lösenord:
-rpcuser=wtfcoinrpc
+rpcuser=abccoinrpc
 rpcpassword=%s
 (du behöver inte komma ihåg lösenordet)
 Användarnamnet och lösenordet FÅR INTE bara detsamma.
 Om filen inte existerar, skapa den med enbart ägarläsbara filrättigheter.
 Det är också rekommenderat att sätta alertnotify så du meddelas om problem;
-till exempel: alertnotify=echo %%s | mail -s &quot;Wtfcoin Alert&quot; admin@foo.com
+till exempel: alertnotify=echo %%s | mail -s &quot;Abccoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2333,8 +2333,8 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Wtfcoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Wtfcoin is probably already running.</source>
-        <translation>Kan inte låsa data-mappen %s. Wtfcoin körs förmodligen redan.</translation>
+        <source>Cannot obtain a lock on data directory %s. Abccoin is probably already running.</source>
+        <translation>Kan inte låsa data-mappen %s. Abccoin körs förmodligen redan.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2344,7 +2344,7 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Wtfcoin Alert&quot; admin@foo
     <message>
         <location line="+4"/>
         <source>Error: This transaction requires a transaction fee of at least %s because of its amount, complexity, or use of recently received funds!</source>
-        <translation>Fel: Denna transaktion kräver en transaktionsavgift på minst %s på grund av dess storlek, komplexitet, eller användning av senast mottagna wtfcoins!</translation>
+        <translation>Fel: Denna transaktion kräver en transaktionsavgift på minst %s på grund av dess storlek, komplexitet, eller användning av senast mottagna abccoins!</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2378,8 +2378,8 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Wtfcoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Wtfcoin will not work properly.</source>
-        <translation>Varning: Vänligen kolla så att din dators datum och tid är korrekt! Om din klocka går fel kommer Wtfcoin inte fungera korrekt.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Abccoin will not work properly.</source>
+        <translation>Varning: Vänligen kolla så att din dators datum och tid är korrekt! Om din klocka går fel kommer Abccoin inte fungera korrekt.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2628,8 +2628,8 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Wtfcoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Wtfcoin Wiki for SSL setup instructions)</source>
-        <translation>SSL-inställningar: (se Wtfcoin-wikin för SSL-setup instruktioner)</translation>
+        <source>SSL options: (see the Abccoin Wiki for SSL setup instructions)</source>
+        <translation>SSL-inställningar: (se Abccoin-wikin för SSL-setup instruktioner)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2818,13 +2818,13 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Wtfcoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Wtfcoin</source>
-        <translation>Fel vid inläsningen av wallet.dat: Plånboken kräver en senare version av Wtfcoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Abccoin</source>
+        <translation>Fel vid inläsningen av wallet.dat: Plånboken kräver en senare version av Abccoin</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Wtfcoin to complete</source>
-        <translation>Plånboken behöver skrivas om: Starta om Wtfcoin för att färdigställa</translation>
+        <source>Wallet needed to be rewritten: restart Abccoin to complete</source>
+        <translation>Plånboken behöver skrivas om: Starta om Abccoin för att färdigställa</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2869,7 +2869,7 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Wtfcoin Alert&quot; admin@foo
     <message>
         <location line="-6"/>
         <source>Insufficient funds</source>
-        <translation>Otillräckligt med wtfcoins</translation>
+        <translation>Otillräckligt med abccoins</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2883,8 +2883,8 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Wtfcoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Wtfcoin is probably already running.</source>
-        <translation>Det går inte att binda till %s på den här datorn. Wtfcoin är förmodligen redan igång.</translation>
+        <source>Unable to bind to %s on this computer. Abccoin is probably already running.</source>
+        <translation>Det går inte att binda till %s på den här datorn. Abccoin är förmodligen redan igång.</translation>
     </message>
     <message>
         <location line="+64"/>

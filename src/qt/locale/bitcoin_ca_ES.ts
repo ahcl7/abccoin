@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Wtfcoin</source>
-        <translation>Sobre Wtfcoin</translation>
+        <source>About Abccoin</source>
+        <translation>Sobre Abccoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Wtfcoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Wtfcoin&lt;/b&gt; versió</translation>
+        <source>&lt;b&gt;Abccoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Abccoin&lt;/b&gt; versió</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -29,7 +29,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+0"/>
-        <source>The Wtfcoin developers</source>
+        <source>The Abccoin developers</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -62,8 +62,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Wtfcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Aquestes són les teves adreces Wtfcoin per a rebre pagaments. Pot interesar-te proveïr diferents adreces a cadascun dels enviadors així pots identificar qui et va pagant.</translation>
+        <source>These are your Abccoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Aquestes són les teves adreces Abccoin per a rebre pagaments. Pot interesar-te proveïr diferents adreces a cadascun dels enviadors així pots identificar qui et va pagant.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -77,8 +77,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Wtfcoin address</source>
-        <translation>Signa el missatge per provar que ets propietari de l&apos;adreça Wtfcoin</translation>
+        <source>Sign a message to prove you own a Abccoin address</source>
+        <translation>Signa el missatge per provar que ets propietari de l&apos;adreça Abccoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -102,8 +102,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Wtfcoin address</source>
-        <translation>Verificar un missatge per asegurar-se que ha estat signat amb una adreça Wtfcoin específica</translation>
+        <source>Verify a message to ensure it was signed with a specified Abccoin address</source>
+        <translation>Verificar un missatge per asegurar-se que ha estat signat amb una adreça Abccoin específica</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -117,8 +117,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Wtfcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Aquestes són la seva adreça de Wtfcoin per enviar els pagaments. Sempre revisi la quantitat i l&apos;adreça del destinatari abans transferència de monedes.</translation>
+        <source>These are your Abccoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Aquestes són la seva adreça de Abccoin per enviar els pagaments. Sempre revisi la quantitat i l&apos;adreça del destinatari abans transferència de monedes.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -243,8 +243,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR WTFCOINS&lt;/b&gt;!</source>
-        <translation>Advertència: Si encripteu el vostre moneder i perdeu la constrasenya, &lt;b&gt;PERDREU TOTS ELS VOSTRES WTFCOINS&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ABCCOINS&lt;/b&gt;!</source>
+        <translation>Advertència: Si encripteu el vostre moneder i perdeu la constrasenya, &lt;b&gt;PERDREU TOTS ELS VOSTRES ABCCOINS&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -270,8 +270,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-56"/>
-        <source>Wtfcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your wtfcoins from being stolen by malware infecting your computer.</source>
-        <translation>Wtfcoin es tancarà ara per acabar el procés d&apos;encriptació. Recorda que encriptar el teu moneder no protegeix completament els teus wtfcoins de ser robades per programari maliciós instal·lat al teu ordinador.</translation>
+        <source>Abccoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your abccoins from being stolen by malware infecting your computer.</source>
+        <translation>Abccoin es tancarà ara per acabar el procés d&apos;encriptació. Recorda que encriptar el teu moneder no protegeix completament els teus abccoins de ser robades per programari maliciós instal·lat al teu ordinador.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -369,8 +369,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Wtfcoin</source>
-        <translation>Mostra informació sobre Wtfcoin</translation>
+        <source>Show information about Abccoin</source>
+        <translation>Mostra informació sobre Abccoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -414,13 +414,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Wtfcoin address</source>
-        <translation>Enviar monedes a una adreça Wtfcoin</translation>
+        <source>Send coins to a Abccoin address</source>
+        <translation>Enviar monedes a una adreça Abccoin</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Wtfcoin</source>
-        <translation>Modificar les opcions de configuració per wtfcoin</translation>
+        <source>Modify configuration options for Abccoin</source>
+        <translation>Modificar les opcions de configuració per abccoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -450,8 +450,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Wtfcoin</source>
-        <translation>Wtfcoin</translation>
+        <source>Abccoin</source>
+        <translation>Abccoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -475,8 +475,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Wtfcoin</source>
-        <translation>&amp;Sobre Wtfcoin</translation>
+        <source>&amp;About Abccoin</source>
+        <translation>&amp;Sobre Abccoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -495,13 +495,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Wtfcoin addresses to prove you own them</source>
-        <translation>Signa el missatges amb la seva adreça de Wtfcoin per provar que les poseeixes</translation>
+        <source>Sign messages with your Abccoin addresses to prove you own them</source>
+        <translation>Signa el missatges amb la seva adreça de Abccoin per provar que les poseeixes</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Wtfcoin addresses</source>
-        <translation>Verificar els missatges per assegurar-te que han estat signades amb una adreça Wtfcoin específica.</translation>
+        <source>Verify messages to ensure they were signed with specified Abccoin addresses</source>
+        <translation>Verificar els missatges per assegurar-te que han estat signades amb una adreça Abccoin específica.</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -531,13 +531,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+47"/>
-        <source>Wtfcoin client</source>
-        <translation>Client Wtfcoin</translation>
+        <source>Abccoin client</source>
+        <translation>Client Abccoin</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Wtfcoin network</source>
-        <translation><numerusform>%n connexió activa a la xarxa Wtfcoin</numerusform><numerusform>%n connexions actives a la xarxa Wtfcoin</numerusform></translation>
+        <source>%n active connection(s) to Abccoin network</source>
+        <translation><numerusform>%n connexió activa a la xarxa Abccoin</numerusform><numerusform>%n connexions actives a la xarxa Abccoin</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -647,8 +647,8 @@ Address: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Wtfcoin address or malformed URI parameters.</source>
-        <translation>la URI no pot ser processada! Això es pot ser causat per una adreça Wtfcoin invalida o paràmetres URI malformats.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Abccoin address or malformed URI parameters.</source>
+        <translation>la URI no pot ser processada! Això es pot ser causat per una adreça Abccoin invalida o paràmetres URI malformats.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -662,8 +662,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Wtfcoin can no longer continue safely and will quit.</source>
-        <translation>Ha tingut lloc un error fatal. Wtfcoin no pot continuar executant-se de manera segura i es tancará.</translation>
+        <source>A fatal error occurred. Abccoin can no longer continue safely and will quit.</source>
+        <translation>Ha tingut lloc un error fatal. Abccoin no pot continuar executant-se de manera segura i es tancará.</translation>
     </message>
 </context>
 <context>
@@ -728,8 +728,8 @@ Address: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Wtfcoin address.</source>
-        <translation>L&apos;adreça introduida &quot;%1&quot; no és una adreça Wtfcoin valida.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Abccoin address.</source>
+        <translation>L&apos;adreça introduida &quot;%1&quot; no és una adreça Abccoin valida.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -747,8 +747,8 @@ Address: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Wtfcoin-Qt</source>
-        <translation>Wtfcoin-Qt</translation>
+        <source>Abccoin-Qt</source>
+        <translation>Abccoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -810,13 +810,13 @@ Address: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Wtfcoin after logging in to the system.</source>
-        <translation>Iniciar automàticament Wtfcoin després de l&apos;inici de sessió del sistema.</translation>
+        <source>Automatically start Abccoin after logging in to the system.</source>
+        <translation>Iniciar automàticament Abccoin després de l&apos;inici de sessió del sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Wtfcoin on system login</source>
-        <translation>&amp;Iniciar Wtfcoin al inici de sessió del sistema.</translation>
+        <source>&amp;Start Abccoin on system login</source>
+        <translation>&amp;Iniciar Abccoin al inici de sessió del sistema.</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -835,8 +835,8 @@ Address: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Wtfcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Obrir el port del client de Wtfcoin al router de forma automàtica. Això només funciona quan el teu router implementa UPnP i l&apos;opció està activada.</translation>
+        <source>Automatically open the Abccoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Obrir el port del client de Abccoin al router de forma automàtica. Això només funciona quan el teu router implementa UPnP i l&apos;opció està activada.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -845,8 +845,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Wtfcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connectar a la xarxa Wtfcoin a través de un SOCKS proxy (per exemple connectant a través de Tor).</translation>
+        <source>Connect to the Abccoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connectar a la xarxa Abccoin a través de un SOCKS proxy (per exemple connectant a través de Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -920,8 +920,8 @@ Address: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Wtfcoin.</source>
-        <translation>Aquí pots definir el llenguatge de l&apos;aplicatiu. Aquesta configuració tindrà efecte un cop es reiniciï Wtfcoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Abccoin.</source>
+        <translation>Aquí pots definir el llenguatge de l&apos;aplicatiu. Aquesta configuració tindrà efecte un cop es reiniciï Abccoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -935,8 +935,8 @@ Address: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Wtfcoin addresses in the transaction list or not.</source>
-        <translation>Mostrar adreces Wtfcoin als llistats de transaccions o no.</translation>
+        <source>Whether to show Abccoin addresses in the transaction list or not.</source>
+        <translation>Mostrar adreces Abccoin als llistats de transaccions o no.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -987,8 +987,8 @@ Address: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Wtfcoin.</source>
-        <translation>Aquesta configuració tindrà efecte un cop es reiniciï Wtfcoin.</translation>
+        <source>This setting will take effect after restarting Abccoin.</source>
+        <translation>Aquesta configuració tindrà efecte un cop es reiniciï Abccoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1006,8 +1006,8 @@ Address: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Wtfcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>La informació mostrada pot no estar al día. El teu moneder es sincronitza automàticament amb la xarxa Wtfcoin un cop s&apos;ha establert connexió, però aquest proces no s&apos;ha completat encara.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Abccoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>La informació mostrada pot no estar al día. El teu moneder es sincronitza automàticament amb la xarxa Abccoin un cop s&apos;ha establert connexió, però aquest proces no s&apos;ha completat encara.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1060,8 +1060,8 @@ Address: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start wtfcoin: click-to-pay handler</source>
-        <translation>No es pot iniciar wtfcoin: manejador clicla-per-pagar</translation>
+        <source>Cannot start abccoin: click-to-pay handler</source>
+        <translation>No es pot iniciar abccoin: manejador clicla-per-pagar</translation>
     </message>
 </context>
 <context>
@@ -1210,8 +1210,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Wtfcoin-Qt help message to get a list with possible Wtfcoin command-line options.</source>
-        <translation>Mostrar el missatge d&apos;ajuda de Wtfcoin-Qt per a obtenir un llistat de possibles ordres per a la línia d&apos;ordres de Wtfcoin.</translation>
+        <source>Show the Abccoin-Qt help message to get a list with possible Abccoin command-line options.</source>
+        <translation>Mostrar el missatge d&apos;ajuda de Abccoin-Qt per a obtenir un llistat de possibles ordres per a la línia d&apos;ordres de Abccoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1230,13 +1230,13 @@ Address: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Wtfcoin - Debug window</source>
-        <translation>Wtfcoin -Finestra de debug</translation>
+        <source>Abccoin - Debug window</source>
+        <translation>Abccoin -Finestra de debug</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Wtfcoin Core</source>
-        <translation>Nucli de Wtfcoin</translation>
+        <source>Abccoin Core</source>
+        <translation>Nucli de Abccoin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1245,8 +1245,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Wtfcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Obrir el dietari de debug de Wtfcoin del directori de dades actual. Aixó pot trigar uns quants segons per a dietàris grossos.</translation>
+        <source>Open the Abccoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Obrir el dietari de debug de Abccoin del directori de dades actual. Aixó pot trigar uns quants segons per a dietàris grossos.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1255,8 +1255,8 @@ Address: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Wtfcoin RPC console.</source>
-        <translation>Benvingut a la consola RPC de Wtfcoin</translation>
+        <source>Welcome to the Abccoin RPC console.</source>
+        <translation>Benvingut a la consola RPC de Abccoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1439,8 +1439,8 @@ Address: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Wtfcoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introdueixi una adreça de Wtfcoin (per exemple Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Abccoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introdueixi una adreça de Abccoin (per exemple Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1504,8 +1504,8 @@ Address: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Wtfcoin address</source>
-        <translation>Signa el missatge per provar que ets propietari d&apos;aquesta adreça Wtfcoin</translation>
+        <source>Sign the message to prove you own this Abccoin address</source>
+        <translation>Signa el missatge per provar que ets propietari d&apos;aquesta adreça Abccoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1540,8 +1540,8 @@ Address: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Wtfcoin address</source>
-        <translation>Verificar el missatge per assegurar-se que ha estat signat amb una adreça Wtfcoin específica</translation>
+        <source>Verify the message to ensure it was signed with the specified Abccoin address</source>
+        <translation>Verificar el missatge per assegurar-se que ha estat signat amb una adreça Abccoin específica</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1556,8 +1556,8 @@ Address: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Wtfcoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introdueixi una adreça de Wtfcoin (per exemple Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Abccoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introdueixi una adreça de Abccoin (per exemple Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1566,8 +1566,8 @@ Address: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Wtfcoin signature</source>
-        <translation>Introduïr una clau Wtfcoin</translation>
+        <source>Enter Abccoin signature</source>
+        <translation>Introduïr una clau Abccoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1640,7 +1640,7 @@ Address: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Wtfcoin developers</source>
+        <source>The Abccoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2178,8 +2178,8 @@ Address: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Wtfcoin version</source>
-        <translation>Versió de Wtfcoin</translation>
+        <source>Abccoin version</source>
+        <translation>Versió de Abccoin</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2188,8 +2188,8 @@ Address: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or wtfcoind</source>
-        <translation>Enviar comanda a -servidor o wtfcoind</translation>
+        <source>Send command to -server or abccoind</source>
+        <translation>Enviar comanda a -servidor o abccoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2208,13 +2208,13 @@ Address: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: wtfcoin.conf)</source>
-        <translation>Especificat arxiu de configuració (per defecte: wtfcoin.conf)</translation>
+        <source>Specify configuration file (default: abccoin.conf)</source>
+        <translation>Especificat arxiu de configuració (per defecte: abccoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: wtfcoind.pid)</source>
-        <translation>Especificar arxiu pid (per defecte: wtfcoind.pid)</translation>
+        <source>Specify pid file (default: abccoind.pid)</source>
+        <translation>Especificar arxiu pid (per defecte: abccoind.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2291,15 +2291,15 @@ Address: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=wtfcoinrpc
+rpcuser=abccoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Wtfcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Abccoin Alert&quot; admin@foo.com
 </source>
-        <translation>%s has de establir una contrasenya RPC a l&apos;arxiu de configuració:\n%s\nEs recomana que useu la següent constrasenya aleatòria:\nrpcuser=wtfcoinrpc\nrpcpassword=%s\n(no necesiteu recordar aquesta contrsenya)\nEl nom d&apos;usuari i contrasenya NO HAN de ser els mateixos.\nSi l&apos;arxiu no existeix, crea&apos;l amb els permisos d&apos;arxiu de només lectura per al propietari.\nTambé es recomana establir la notificació d&apos;alertes i així seràs notificat de les incidències;\nper exemple: alertnotify=echo %%s | mail -s &quot;Wtfcoin Alert&quot; admin@foo.com</translation>
+        <translation>%s has de establir una contrasenya RPC a l&apos;arxiu de configuració:\n%s\nEs recomana que useu la següent constrasenya aleatòria:\nrpcuser=abccoinrpc\nrpcpassword=%s\n(no necesiteu recordar aquesta contrsenya)\nEl nom d&apos;usuari i contrasenya NO HAN de ser els mateixos.\nSi l&apos;arxiu no existeix, crea&apos;l amb els permisos d&apos;arxiu de només lectura per al propietari.\nTambé es recomana establir la notificació d&apos;alertes i així seràs notificat de les incidències;\nper exemple: alertnotify=echo %%s | mail -s &quot;Abccoin Alert&quot; admin@foo.com</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2313,8 +2313,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Wtfcoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Wtfcoin is probably already running.</source>
-        <translation>No es pot bloquejar el directori de dades %s. Probablement Wtfcoin ja estigui en execució.</translation>
+        <source>Cannot obtain a lock on data directory %s. Abccoin is probably already running.</source>
+        <translation>No es pot bloquejar el directori de dades %s. Probablement Abccoin ja estigui en execució.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2358,8 +2358,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Wtfcoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Wtfcoin will not work properly.</source>
-        <translation>Advertència: Si us plau comprovi que la data i hora del seu computador siguin correctes! Si el seu rellotge està mal configurat, Wtfcoin no funcionará de manera apropiada.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Abccoin will not work properly.</source>
+        <translation>Advertència: Si us plau comprovi que la data i hora del seu computador siguin correctes! Si el seu rellotge està mal configurat, Abccoin no funcionará de manera apropiada.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2608,8 +2608,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Wtfcoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Wtfcoin Wiki for SSL setup instructions)</source>
-        <translation>Opcions SSL: (veure la Wiki de Wtfcoin per a instruccions de configuració SSL)</translation>
+        <source>SSL options: (see the Abccoin Wiki for SSL setup instructions)</source>
+        <translation>Opcions SSL: (veure la Wiki de Abccoin per a instruccions de configuració SSL)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2798,13 +2798,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Wtfcoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Wtfcoin</source>
-        <translation>Error carregant wallet.dat: El moneder requereix una versió de Wtfcoin més moderna</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Abccoin</source>
+        <translation>Error carregant wallet.dat: El moneder requereix una versió de Abccoin més moderna</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Wtfcoin to complete</source>
-        <translation>El moneder necesita ser re-escrit: re-inicia Wtfcoin per a completar la tasca</translation>
+        <source>Wallet needed to be rewritten: restart Abccoin to complete</source>
+        <translation>El moneder necesita ser re-escrit: re-inicia Abccoin per a completar la tasca</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2863,8 +2863,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Wtfcoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Wtfcoin is probably already running.</source>
-        <translation>Impossible d&apos;unir %s en aquest ordinador. Probablement Wtfcoin ja estigui en execució.</translation>
+        <source>Unable to bind to %s on this computer. Abccoin is probably already running.</source>
+        <translation>Impossible d&apos;unir %s en aquest ordinador. Probablement Abccoin ja estigui en execució.</translation>
     </message>
     <message>
         <location line="+64"/>

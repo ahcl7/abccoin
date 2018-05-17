@@ -3,7 +3,7 @@
 <plist version="0.9">
 <dict>
 	<key>CFBundleIconFile</key>
-	<string>wtfcoin.icns</string>
+	<string>abccoin.icns</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleGetInfoString</key>
@@ -15,19 +15,19 @@
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleExecutable</key>
-	<string>Wtfcoin-Qt</string>
+	<string>Abccoin-Qt</string>
 	<key>CFBundleIdentifier</key>
-	<string>org.wtfcoin.Wtfcoin-Qt</string>
+	<string>org.abccoin.Abccoin-Qt</string>
         <key>CFBundleURLTypes</key>
         <array>
           <dict>
             <key>CFBundleTypeRole</key>
             <string>Editor</string>
             <key>CFBundleURLName</key>
-            <string>org.wtfcoin.WtfcoinPayment</string>
+            <string>org.abccoin.AbccoinPayment</string>
             <key>CFBundleURLSchemes</key>
             <array>
-              <string>wtfcoin</string>
+              <string>abccoin</string>
             </array>
           </dict>
         </array>
